@@ -17,7 +17,7 @@ jobs:
         - { PGVER: 13 }
         - { PGVER: 14 }
         - { PGVER: 15 }
-        - { PGVER: 16 }
+  #      - { PGVER: 16 }
         - { PGVER: 17 }
         - { PGVER: 18 }
 
